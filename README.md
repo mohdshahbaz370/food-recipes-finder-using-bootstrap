@@ -1,1 +1,1 @@
-# food-recipes-finder-using-bootstrap
+# react-food-recipes-finder-using-bootstrap
